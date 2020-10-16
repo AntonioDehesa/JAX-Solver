@@ -1,0 +1,1 @@
+print(ord('I') ^ ord('N')  + -47)
